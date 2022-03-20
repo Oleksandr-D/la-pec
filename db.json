@@ -40,12 +40,6 @@
       "path": "drinks",
       "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fdrinks.svg?alt=media&token=2a888b5f-c051-44b2-8586-b3fffabd64fd",
       "id": 4
-    },
-    {
-      "name": "pizza",
-      "path": "zzz",
-      "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-pietz-clone-website.appspot.com/o/images%2F%D0%B7%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F.jfif?alt=media&token=2364b0be-48f4-4430-bf58-6de232a05a0e",
-      "id": 5
     }
   ]
 }
